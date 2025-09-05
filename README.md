@@ -119,9 +119,7 @@ O projeto insere automaticamente 10 registros em cada tabela:
 - ✅ 3 entidades independentes com prefixo RM98047
 - ✅ Migrations configuradas
 - ✅ 10 registros em cada tabela
-- ✅ Code First approach
-- ✅ Inserção automática de dados
-- ✅ Exibição de estatísticas das tabelas
+
 
 ## Evidências de Execução
 
