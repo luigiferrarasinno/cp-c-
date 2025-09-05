@@ -3,6 +3,9 @@
 ## Descrição
 Este projeto foi desenvolvido em C# utilizando Entity Framework Core (Code First) conectado ao banco de dados Oracle da FIAP. O projeto contém 3 entidades independentes com o prefixo RM98047.
 
+## link do repositorio github
+[text](https://github.com/luigiferrarasinno/cp-c-.git)
+
 ## Estrutura do Projeto
 
 ### Entidades
